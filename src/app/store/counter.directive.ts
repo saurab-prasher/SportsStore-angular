@@ -7,7 +7,7 @@ import {
 } from '@angular/core';
 
 @Directive({
-  selector: '[counterOf]',
+  selector: '[counter]',
 })
 export class CounterDirective {
   constructor(
